@@ -6,7 +6,7 @@ namespace Pokladna_Dvoracek
         /// Vyžaduje se proměnná návrháře.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+        
         /// <summary>
         /// Uvolněte všechny používané prostředky.
         /// </summary>
